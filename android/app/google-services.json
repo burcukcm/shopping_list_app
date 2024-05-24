@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "143448196910",
-    "project_id": "firestore-1b279",
-    "storage_bucket": "firestore-1b279.appspot.com"
+    "project_number": "692135371948",
+    "project_id": "shopping-list-app-c5e24",
+    "storage_bucket": "shopping-list-app-c5e24.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:143448196910:android:f1df3fc366e99d20ee5cbf",
+        "mobilesdk_app_id": "1:692135371948:android:78e5b328fbea2569e9eb09",
         "android_client_info": {
           "package_name": "com.example.check_box"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDfDdpAziCRnO9lz8cqbuYJz7T2MaReLNE"
+          "current_key": "AIzaSyBLt3ziB9gTE8U9pRyg9QZHRW6LcwTUJrE"
         }
       ],
       "services": {
